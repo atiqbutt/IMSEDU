@@ -1,0 +1,1 @@
+{"result":{"text":"S e t space o f space l e t t e r s space i n space t h e space w o r d space \" p a k i s tan \" space"},"status":"ok"}

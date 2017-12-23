@@ -1,0 +1,1 @@
+{"result":{"text":"F i n d space t h e space f o l l o w i n g space p r o d u c t s space o f space w h o l e space n u m b e r.\nleft parenthesis 1 right parenthesis space 854 cross times 96\nleft parenthesis 2 right parenthesis space 736 space cross times 103"},"status":"ok"}

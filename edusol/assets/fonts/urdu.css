@@ -1,0 +1,7 @@
+@font-face {
+    font-family: urdu;
+    src: url('bigfontsite.com_mb_lateefi.ttf');
+}
+div {
+    font-family: urdu;
+}

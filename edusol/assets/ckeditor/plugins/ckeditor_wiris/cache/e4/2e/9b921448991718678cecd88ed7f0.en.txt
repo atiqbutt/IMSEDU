@@ -1,0 +1,1 @@
+{"result":{"text":"4.02 cross times open curly brackets 1.2 cross times 2.11 plus 3.89 close curly brackets"},"status":"ok"}

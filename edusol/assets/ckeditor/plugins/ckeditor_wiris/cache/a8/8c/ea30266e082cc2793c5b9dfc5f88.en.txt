@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis 1 right parenthesis space 854 cross times 96\nleft parenthesis 2 right parenthesis space 736 space cross times space 103\nleft parenthesis 3 right parenthesis space 256 space cross times 1008"},"status":"ok"}

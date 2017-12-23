@@ -1,0 +1,1 @@
+{"result":{"text":"S e t space o f space f i r s t space t e n space n a t u r a l space n u m b e r s space e x a c t l y space d i v i s i b l e space b y space 2."},"status":"ok"}

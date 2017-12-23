@@ -1,0 +1,1 @@
+{"result":{"text":"4.02 cross times open curly brackets 1 times 2 cross times fraction numerator blank over denominator 2.11 plus 3.89 end fraction close curly brackets"},"status":"ok"}

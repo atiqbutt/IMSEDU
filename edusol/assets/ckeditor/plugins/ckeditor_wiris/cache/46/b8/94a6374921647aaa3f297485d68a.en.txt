@@ -1,0 +1,1 @@
+{"result":{"text":"S e t space o f space n a m e space o f space c o l o u r s space o f space n a t i o n a l space f l a g."},"status":"ok"}
